@@ -2,6 +2,7 @@
 <h3 align="center">A passionate frontend developer from ISLAMABAD, PAKISTAN</h3>
 
 <image align="right" alt="coding" width="400" src="C:\Users\ProBook\Desktop\ppr\codinng.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjia-gillani&label=Profile%20views&color=0e75b6&style=flat" alt="shajjia-gillani" /> </p>
 
 - 🔭 I’m currently working on **ARTIFICIAL INTELLIGENCE, DEEP LEARNING**
