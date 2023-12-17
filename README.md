@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shajjia Gillani</h1>
 <h3 align="center">A passionate frontend developer from ISLAMABAD, PAKISTAN</h3>
 
-<image align="right" alt="coding" width="400" src="C:\Users\ProBook\Desktop\ppr\0_yBvA5CnEX3Sd4aod.gif">
+<image align="right" alt="coding" width="250" src="C:\Users\ProBook\Desktop\ppr\0_yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shajjia-gillani&label=Profile%20views&color=0e75b6&style=flat" alt="shajjia-gillani" /> </p>
 
