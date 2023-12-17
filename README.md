@@ -1,3 +1,4 @@
+![logo](https://github.com/Shajjia-gillani/shajjia-gillani/blob/main/jia%20banner.png)
 <h1 align="center">Hi 👋, I'm Shajjia Gillani</h1>
 <h3 align="center">A passionate frontend developer from ISLAMABAD, PAKISTAN</h3>
 
